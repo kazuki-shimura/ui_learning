@@ -14,7 +14,7 @@ dependencies:
 
   cupertino_icons: ^1.0.0
   #  追記
-  flutter_svg: ^0.17.4
+  flutter_svg: ^0.18.0
 
 dev_dependencies:
   flutter_test:
